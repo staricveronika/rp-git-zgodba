@@ -12,3 +12,9 @@
    za katere git še ne ve. Sedaj napišite `git commit -m "Moj prvi commit"` in
    s tem povejte git-u, naj spremembe shrani v repozitorij.
 7. Glejte ukazno vrstico za nadaljnja navodila.
+42
+./hook-install.sh
+git status
+git add navodila.md
+git status
+git commit -m "Moj prvi commit"
